@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-crud-app-with-fetch-api/static/css/main.ad31583e.css",
+    "main.js": "/react-crud-app-with-fetch-api/static/js/main.79b29c83.js",
+    "index.html": "/react-crud-app-with-fetch-api/index.html",
+    "main.ad31583e.css.map": "/react-crud-app-with-fetch-api/static/css/main.ad31583e.css.map",
+    "main.79b29c83.js.map": "/react-crud-app-with-fetch-api/static/js/main.79b29c83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad31583e.css",
+    "static/js/main.79b29c83.js"
+  ]
+}
